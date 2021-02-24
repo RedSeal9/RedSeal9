@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a lot of projects
 - 🌱 I’m currently learning PHP, Kotlin, and Java
-- 📫 How to reach me: 
+- 📫 How to reach me: red@redseal.red
 - 😄 Pronouns: They/Them
