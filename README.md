@@ -7,4 +7,3 @@
 - ⌨ I’m currently learning PHP, Kotlin, and Java
 - ✉ How to reach me: red@redseal.red
 - ✨ Pronouns: They/Them
-- 🔨 CI Server: https://ci.redseal.red
